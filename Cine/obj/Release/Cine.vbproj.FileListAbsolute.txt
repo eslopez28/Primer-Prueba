@@ -1,0 +1,10 @@
+C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\bin\Release\Cine.exe.config
+C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Release\Cine.AgregarPelicula.resources
+C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Release\Cine.Resources.resources
+C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Release\Cine.vbproj.GenerateResource.Cache
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\bin\Release\Cine.exe
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\bin\Release\Cine.pdb
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\bin\Release\Cine.xml
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.exe
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.xml
+C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.pdb
