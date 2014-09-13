@@ -23,7 +23,7 @@
 
         Dim lista As ArrayList = New MultiPelicula().getPeliculas
         Dim pelicula As Pelicula
-
+        MsgBox("Esto es un bug, no se asuste")
         For Each pelicula In lista
             lstPeli.Items.Add(pelicula.getTituloDist & " - " & pelicula.getTituloOrig)
         Next
