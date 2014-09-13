@@ -8,3 +8,7 @@ C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\bin\Release
 C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.exe
 C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.xml
 C:\Users\LuisEsteban\Documents\Visual Studio 2013\Projects\Cine\Cine\obj\Release\Cine.pdb
+C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\bin\Release\Cine.exe.config
+C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.exe
+C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.xml
+C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.pdb
