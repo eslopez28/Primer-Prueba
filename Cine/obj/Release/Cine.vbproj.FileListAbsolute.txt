@@ -12,3 +12,7 @@ C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\bin\Release\Cine.exe.config
 C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.exe
 C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.xml
 C:\Users\Jorge\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.pdb
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\bin\Release\Cine.exe.config
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.exe
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.xml
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.pdb
