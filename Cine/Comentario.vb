@@ -6,6 +6,7 @@
     Private fecha As Date
     Private idComentario As Integer
     Private idResumen As Integer
+    Private lel As String
 
     Public Sub Comentario(pnombre As String, pedad As Integer, pcalificacion As String, pcomentarioPelicula As String,
                           pfecha As Date, pidComentario As Integer, pidResumen As Integer)
