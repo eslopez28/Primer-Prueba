@@ -16,3 +16,6 @@ C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\bin\Release\Cine.exe.config
 C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.exe
 C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.xml
 C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.pdb
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.AgregarPelicula.resources
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.Resources.resources
+C:\Users\Marco\Documents\GitHub\Primer-Prueba\Cine\obj\Release\Cine.vbproj.GenerateResource.Cache
