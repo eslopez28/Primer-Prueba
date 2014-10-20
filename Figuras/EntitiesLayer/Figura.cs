@@ -20,6 +20,11 @@ namespace EntitiesLayer
 		setColor(pcolor);
 	}
 
+    public Figura()
+    {
+
+    }
+
 	public String getTipo() {
 		return tipo;
 	}
