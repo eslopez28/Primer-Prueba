@@ -1,9 +1,0 @@
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\bin\Debug\EjemploCodificacionEstructuras.exe.config
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\bin\Debug\EjemploCodificacionEstructuras.exe
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\bin\Debug\EjemploCodificacionEstructuras.pdb
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\bin\Debug\EjemploCodificacionEstructuras.xml
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\obj\Debug\EjemploCodificacionEstructuras.Resources.resources
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\obj\Debug\EjemploCodificacionEstructuras.vbproj.GenerateResource.Cache
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\obj\Debug\EjemploCodificacionEstructuras.exe
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\obj\Debug\EjemploCodificacionEstructuras.xml
-c:\users\marco\documents\visual studio 2013\Projects\EjemploCodificacionEstructuras\EjemploCodificacionEstructuras\obj\Debug\EjemploCodificacionEstructuras.pdb

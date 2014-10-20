@@ -1,4 +1,0 @@
-C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Debug\Cine.AgregarPelicula.resources
-C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Debug\Cine.Resources.resources
-C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\obj\Debug\Cine.vbproj.GenerateResource.Cache
-C:\Users\LuisEsteban\documents\visual studio 2013\Projects\Cine\Cine\bin\Debug\Cine.exe.config
