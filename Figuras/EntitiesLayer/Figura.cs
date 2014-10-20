@@ -20,9 +20,20 @@ namespace EntitiesLayer
 		    setColor(pcolor);
 	    }
 
+<<<<<<< HEAD
 	    public String getTipo() {
 		    return tipo;
 	    }
+=======
+    public Figura()
+    {
+
+    }
+
+	public String getTipo() {
+		return tipo;
+	}
+>>>>>>> origin/marco-rodriguez
 
 	    private void setTipo(String ptipo) {
 		    tipo = ptipo;
