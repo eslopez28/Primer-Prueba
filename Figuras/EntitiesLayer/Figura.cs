@@ -25,7 +25,6 @@ namespace EntitiesLayer
             get { return id; }
             set 
             { 
-                cantFig++;    
                 id = value; 
             }
         }
