@@ -8,5 +8,6 @@ namespace EntitiesLayer
 {
     public class Triangulo : Figura
     {
+
     }
 }
