@@ -11,18 +11,19 @@ namespace EntitiesLayer
         private double baseR;
         private double altura;
 
-        public Rectangulo(double pbaseR, double paltura, String ptipo, String pcolor) : base(ptipo,pcolor)
+        public Rectangulo(String ptipo, String pcolor,double pbaseR, double paltura) : base(ptipo,pcolor)
         {
             BaseR = pbaseR;
             Altura = paltura;
         }
 
-        public Rectangulo(double pbaseR, double paltura, String pcolor):this(pbaseR,paltura,"Rectangulo",pcolor)
+        public Rectangulo(String pcolor, double pbaseT, double paltura)
+            : this("Rectangulo", pcolor, pbaseT, paltura)
         {
         }
 
         public Rectangulo()
-            : this(2, 1, "Rectangulo", "Negro")
+            : this("Rectangulo", "Negro",2, 1 )
         {   
         }
 
