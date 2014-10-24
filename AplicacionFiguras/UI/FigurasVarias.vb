@@ -9,6 +9,8 @@ Public Class FigurasVarias
             seleccion = 1
         ElseIf (rbtnRectangulo.Checked) Then
             seleccion = 2
+        ElseIf (rbtnCirculo.Checked) Then
+            seleccion = 3
         End If
 
         figura = gestor.crearFigura(seleccion)
