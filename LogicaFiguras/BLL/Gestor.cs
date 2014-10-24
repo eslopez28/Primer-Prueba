@@ -20,6 +20,10 @@ namespace BLL
             {
                 objFigura = new Rectangulo();
             }
+            else if (pseleccion == 3)
+            {
+                objFigura = new Circulo();
+            }
             return objFigura.Tipo;
         }
     }
