@@ -26,6 +26,7 @@ Partial Class FigurasVarias
         Me.txtFigura = New System.Windows.Forms.TextBox()
         Me.rbtnTriangulo = New System.Windows.Forms.RadioButton()
         Me.rbtnRectangulo = New System.Windows.Forms.RadioButton()
+        Me.rbtnCirculo = New System.Windows.Forms.RadioButton()
         Me.SuspendLayout()
         '
         'btnCrearFigura
@@ -66,11 +67,23 @@ Partial Class FigurasVarias
         Me.rbtnRectangulo.Text = "Rectangulo"
         Me.rbtnRectangulo.UseVisualStyleBackColor = True
         '
+        'rbtnCirculo
+        '
+        Me.rbtnCirculo.AutoSize = True
+        Me.rbtnCirculo.Location = New System.Drawing.Point(215, 110)
+        Me.rbtnCirculo.Name = "rbtnCirculo"
+        Me.rbtnCirculo.Size = New System.Drawing.Size(57, 17)
+        Me.rbtnCirculo.TabIndex = 4
+        Me.rbtnCirculo.TabStop = True
+        Me.rbtnCirculo.Text = "Circulo"
+        Me.rbtnCirculo.UseVisualStyleBackColor = True
+        '
         'FigurasVarias
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(571, 355)
+        Me.Controls.Add(Me.rbtnCirculo)
         Me.Controls.Add(Me.rbtnRectangulo)
         Me.Controls.Add(Me.rbtnTriangulo)
         Me.Controls.Add(Me.txtFigura)
@@ -85,5 +98,6 @@ Partial Class FigurasVarias
     Friend WithEvents txtFigura As System.Windows.Forms.TextBox
     Friend WithEvents rbtnTriangulo As System.Windows.Forms.RadioButton
     Friend WithEvents rbtnRectangulo As System.Windows.Forms.RadioButton
+    Friend WithEvents rbtnCirculo As System.Windows.Forms.RadioButton
 
 End Class
